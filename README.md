@@ -1,16 +1,14 @@
-## Hi there 👋
+### Seja bem-vindo ao meu perfil 💙
 
-<!--
-**camilymily14/camilymily14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Camily
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+### Você pode entrar em contato comigo 📫
+
+camilyvitoriaosilva.com.br
+
+
+![](https://media1.tenor.com/m/o6vsBd5Ywa8AAAAd/zoro-zoro-one-piece.gif)
